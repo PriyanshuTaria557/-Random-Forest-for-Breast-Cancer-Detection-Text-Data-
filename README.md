@@ -1,4 +1,4 @@
-# 🌳Random-Forest-for-Breast-Cancer-Detection-Text-Data
+# 🌳Random-Forest-Model-for-Breast-Cancer-Detection (Using-Text-Data)
 
 ## *📌 Project Overview*
 
